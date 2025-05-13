@@ -1,0 +1,46 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python compiled files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Python package and distribution files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+
+# Dependency lock files (optional, include if you commit them)
+# requirements.txt
+# Pipfile.lock
+
+# Project-specific files (add as needed)
+# predictions.csv
+# best_model.pkl
+# scaler.pkl
+# training_features.pkl
+# TestFiles/
